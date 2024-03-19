@@ -1,0 +1,54 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "features": [
+        "Access to gym facilities during off-peak hours only",
+        "Access to locker rooms",
+        "Access to cardio equipment"
+      ],
+      "price": 29.99,
+      "validity_period": "per month"
+    },
+    {
+      "id": 2,
+      "name": "Standard Membership",
+      "features": [
+        "Access to gym facilities at all times",
+        "Access to locker rooms",
+        "Access to cardio equipment",
+        "Access to strength training equipment"
+      ],
+      "price": 49.99,
+      "validity_period": "per month"
+    },
+    {
+      "id": 3,
+      "name": "Premium Membership",
+      "features": [
+        "Access to gym facilities at all times",
+        "Access to locker rooms",
+        "Access to cardio equipment",
+        "Access to strength training equipment",
+        "Access to group fitness classes",
+        "Personalized training sessions (limited)"
+      ],
+      "price": 69.99,
+      "validity_period": "per month"
+    },
+    {
+      "id": 4,
+      "name": "Annual Membership",
+      "features": [
+        "Access to gym facilities at all times for a year",
+        "Access to locker rooms",
+        "Access to cardio equipment",
+        "Access to strength training equipment",
+        "Access to group fitness classes",
+        "Unlimited personalized training sessions"
+      ],
+      "price": 499.99,
+      "validity_period": "per year"
+    }
+  ]
+  
